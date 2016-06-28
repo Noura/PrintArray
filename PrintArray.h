@@ -1,7 +1,7 @@
 /*
     PrintArray.h - for printing Arrays with Serial.print( ... )
     2016 Noura Howell
-    https://github.com/Noura/simple-spike-detection
+    https://github.com/Noura/PrintArray.git
 
 */
 
